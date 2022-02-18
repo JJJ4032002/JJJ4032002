@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Rohan Hemantkumar Patel</h1>
 <h3 align="center">A frontend developer from India.</h3>
 
-- 🔭 I’m currently working on [Photo Tagging App](https://github.com/JJJ4032002/PhotoTaggingApp)
+- 🔭 I’m currently working on [Twitter Clone](https://github.com/JJJ4032002/Tweeter)
 
 - 📫 How to reach me **rp4888888@gmail.com**
 
